@@ -5,3 +5,7 @@
 
 
 [Java11 JDK 目录](https://yyscyber.github.io/development-environment-and-tools/a0864076-87af-4f40-990c-56fff7098d14)
+
+
+
+[IntelliJ IDEA 安装目录下的 jbr 目录](https://yyscyber.github.io/development-environment-and-tools/320589d1-0185-4076-b844-671b3fb2dded)
