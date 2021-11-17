@@ -9,3 +9,8 @@
 
 
 [IntelliJ IDEA 安装目录下的 jbr 目录](https://yyscyber.github.io/development-environment-and-tools/320589d1-0185-4076-b844-671b3fb2dded)
+
+
+
+[Windows10 MySQL 数据库安装](https://yyscyber.github.io/development-environment-and-tools/32ebf509-176c-4a6d-aec8-f2b1d4154d49)
+
