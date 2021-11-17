@@ -17,3 +17,8 @@
 
 
 [Windows10 Maven 安装](https://yyscyber.github.io/development-environment-and-tools/7a842f6a-c795-4811-bd2f-1a14e11fca6d)
+
+
+
+[Windows10 Nginx 安装](https://yyscyber.github.io/development-environment-and-tools/c633bfcc-8ee5-4ca2-94d1-768b8106a442)
+
