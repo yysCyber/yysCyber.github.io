@@ -14,6 +14,10 @@
 
 
 
+[Windows10 IntelliJ IDEA 破解教程](https://yyscyber.github.io/development-environment-and-tools/8e09ded4-0d8e-4059-a6c1-98f30bc6a406)
+
+
+
 [IntelliJ IDEA 安装目录下的 jbr 目录](https://yyscyber.github.io/development-environment-and-tools/320589d1-0185-4076-b844-671b3fb2dded)
 
 
