@@ -28,13 +28,13 @@
 
 [数据传输 — 请求数据传输（前端至后端）](https://yyscyber.github.io/java/lagou/basic/5392656a-95dc-4e7f-8f76-1f5fa5cfe9ba)
 
-[JSON](5d869c0f-afb9-4e4b-9161-dd0527a2e73a)
+[JSON](https://yyscyber.github.io/java/lagou/basic/5d869c0f-afb9-4e4b-9161-dd0527a2e73a)
 
-[数据传输 — 响应数据传输（后端至前端）](4baafe47-4fd3-420c-ab88-b644dacb67f7)
+[数据传输 — 响应数据传输（后端至前端）](https://yyscyber.github.io/java/lagou/basic/4baafe47-4fd3-420c-ab88-b644dacb67f7)
 
-[Ajax](08aa86d7-f333-446b-a0aa-27c892beb4cd)
+[Ajax](https://yyscyber.github.io/java/lagou/basic/08aa86d7-f333-446b-a0aa-27c892beb4cd)
 
-[文件上传（基于 Servlet）](259fe138-8668-4565-a8f6-d89a60bb02c3)
+[文件上传（基于 Servlet）](https://yyscyber.github.io/java/lagou/basic/08aa86d7-f333-446b-a0aa-27c892beb4cd259fe138-8668-4565-a8f6-d89a60bb02c3)
 
 ---
 
