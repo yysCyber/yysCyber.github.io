@@ -34,7 +34,7 @@
 
 [Ajax](https://yyscyber.github.io/java/lagou/basic/08aa86d7-f333-446b-a0aa-27c892beb4cd)
 
-[文件上传（基于 Servlet）](https://yyscyber.github.io/java/lagou/basic/08aa86d7-f333-446b-a0aa-27c892beb4cd259fe138-8668-4565-a8f6-d89a60bb02c3)
+[文件上传（基于 Servlet）](https://yyscyber.github.io/java/lagou/basic/259fe138-8668-4565-a8f6-d89a60bb02c3)
 
 ---
 
