@@ -14,6 +14,10 @@
 
 
 
+[[转] Windows10 IntelliJ IDEA 安装与使用教程](https://gitee.com/lagouedu/Basic-document/blob/master/document/IDEA.md)
+
+
+
 [Windows10 IntelliJ IDEA 破解教程](https://yyscyber.github.io/development-environment-and-tools/8e09ded4-0d8e-4059-a6c1-98f30bc6a406)
 
 
