@@ -66,4 +66,10 @@
 
 [概述](https://yyscyber.github.io/java/lagou/basic/4588db3a-77fe-486b-9a36-3cd6f05f7e97)
 
+[安装](https://yyscyber.github.io/java/lagou/basic/49fdb017-a01b-4a9c-ba74-850d6fdb24de)
+
+[常用命令](https://yyscyber.github.io/java/lagou/basic/21bbe5ab-c2ed-4320-a881-b362ed7a659c)
+
+[核心配置文件](https://yyscyber.github.io/java/lagou/basic/80d69cce-d3d9-4774-99c2-6b5a486b1858)
+
 ---
