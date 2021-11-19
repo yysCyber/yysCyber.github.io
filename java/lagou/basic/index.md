@@ -76,9 +76,9 @@
 
 [使用 Nginx 实现虚拟主机](https://yyscyber.github.io/java/lagou/basic/dba285e9-3ba9-4470-acca-2010bfdf0b35)
 
-[使用 Nginx 实现反向代理](51ee99c1-7617-4dbd-91ec-973465b5911e)
+[使用 Nginx 实现反向代理](https://yyscyber.github.io/java/lagou/basic/51ee99c1-7617-4dbd-91ec-973465b5911e)
 
-[使用 Nginx 实现负载均衡](0a03fc42-737d-4b67-99d3-9c5c9d26f391)
+[使用 Nginx 实现负载均衡](https://yyscyber.github.io/java/lagou/basic/0a03fc42-737d-4b67-99d3-9c5c9d26f391)
 
 [使用 Nginx 实现动静分离](7edeb283-7b65-4005-a495-b3f448658147)
 
