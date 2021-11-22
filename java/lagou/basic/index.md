@@ -87,3 +87,7 @@
 ### 10、Spring Boot
 
 [概述](https://yyscyber.github.io/java/lagou/basic/028f76a0-6b24-4ff7-860a-38aa84bab40a)
+
+[入门案例](https://yyscyber.github.io/java/lagou/basic/0d17c445-0a3b-4892-953f-b329e9a785ce)
+
+[快速构建 Spring Boot 工程](168c65b0-f8f6-4f12-b96c-9965c03b03a5)
