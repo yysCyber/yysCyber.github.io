@@ -80,7 +80,10 @@
 
 [使用 Nginx 实现负载均衡](https://yyscyber.github.io/java/lagou/basic/0a03fc42-737d-4b67-99d3-9c5c9d26f391)
 
-[使用 Nginx 实现动静分离](7edeb283-7b65-4005-a495-b3f448658147)
+[使用 Nginx 实现动静分离](https://yyscyber.github.io/java/lagou/basic/7edeb283-7b65-4005-a495-b3f448658147)
 
 ---
 
+### 10、Spring Boot
+
+[概述](https://yyscyber.github.io/java/lagou/basic/028f76a0-6b24-4ff7-860a-38aa84bab40a)
