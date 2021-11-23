@@ -92,6 +92,8 @@
 
 [快速构建 Spring Boot 工程](https://yyscyber.github.io/java/lagou/basic/168c65b0-f8f6-4f12-b96c-9965c03b03a5)
 
-[单元测试](1846f3e7-4723-48c4-a16d-bf34da4cbc81)
+[单元测试](https://yyscyber.github.io/java/lagou/basic/1846f3e7-4723-48c4-a16d-bf34da4cbc81)
 
-[热部署](d94ad409-f1dc-4628-a7b8-315eb81e36c9)
+[热部署](https://yyscyber.github.io/java/lagou/basic/d94ad409-f1dc-4628-a7b8-315eb81e36c9)
+
+[配置文件](ff2f1831-aadd-4c88-93c1-9fe6bcdc25f5)
