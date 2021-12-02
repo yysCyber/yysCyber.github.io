@@ -96,4 +96,6 @@
 
 [热部署](https://yyscyber.github.io/java/lagou/basic/d94ad409-f1dc-4628-a7b8-315eb81e36c9)
 
-[配置文件](ff2f1831-aadd-4c88-93c1-9fe6bcdc25f5)
+[配置文件](https://yyscyber.github.io/java/lagou/basic/ff2f1831-aadd-4c88-93c1-9fe6bcdc25f5)
+
+[配置类]()
