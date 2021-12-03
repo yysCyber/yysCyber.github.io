@@ -98,4 +98,11 @@
 
 [配置文件](https://yyscyber.github.io/java/lagou/basic/ff2f1831-aadd-4c88-93c1-9fe6bcdc25f5)
 
-[配置类]()
+[配置类](https://yyscyber.github.io/java/lagou/basic/1f6cbb3e-0e34-45c4-a9b4-ee59063ee646)
+
+[源码简析](18bd23ff-90a7-4190-9644-e7f774127d50)
+
+[整合 MyBatis]()
+
+---
+

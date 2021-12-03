@@ -48,7 +48,7 @@
 
 ## 3、计算机基础
 
-[目录]()
+[目录](https://yyscyber.github.io/computer-basic/index)
 
 ---
 
