@@ -12,3 +12,4 @@
 
 [【排序】快速排序（2）](https://yyscyber.github.io/computer-basic/data-structures-and-algorithms/imooc/dsna-system-2021/2381943f-9bef-4e8e-a8b6-5439a4e2d703)
 
+[【排序】快速排序（3）](https://yyscyber.github.io/computer-basic/data-structures-and-algorithms/imooc/dsna-system-2021/62fff6af-836c-45e1-a7bf-4a3fe7e34c09)
