@@ -2,6 +2,14 @@
 
 <br/>
 
+## 0、电子书
+
+[《图解HTTP》[日]上野宣/著 于均良/译](https://yyscyber.github.io/e-book/4580d6ea-9a5a-4e33-a552-aaa28b9e7188.pdf)
+
+[《我的第一本算法书》[日]石田保辉 宫崎修一/著 张贝/译](https://yyscyber.github.io/e-book/f8112d7a-c18a-4426-926c-7ad4376e2751.pdf)
+
+---
+
 ## 1、开发环境与工具
 
 [Windows10 Java11 安装与配置](https://yyscyber.github.io/development-environment-and-tools/6d1da0cd-3e0d-46cc-98f6-8701be0a397e)
