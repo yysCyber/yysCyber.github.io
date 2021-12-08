@@ -17,3 +17,11 @@
 [【算法—查找】二分查找（1）](https://yyscyber.github.io/computer-basic/data-structures-and-algorithms/imooc/dsna-system-2021/4580d6ea-9a5a-4e33-a552-aaa28b9e7188)
 
 [【算法—查找】二分查找（2）](https://yyscyber.github.io/computer-basic/data-structures-and-algorithms/imooc/dsna-system-2021/f8112d7a-c18a-4426-926c-7ad4376e2751)
+
+[【数据结构—树】树](https://yyscyber.github.io/computer-basic/data-structures-and-algorithms/imooc/dsna-system-2021/6448bd2f-7836-4be6-bec9-90d6c1e09bb3)
+
+[【数据结构—树】二分搜索树](0e541bd2-ffe5-4156-88b3-8522d4341e98)
+
+[【数据结构—集合】]()
+
+[【数据结构—映射】]()
