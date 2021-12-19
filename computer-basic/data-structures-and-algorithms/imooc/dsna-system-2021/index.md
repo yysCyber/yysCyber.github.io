@@ -24,7 +24,7 @@
 
 [【数据结构—树】二分搜索树（2）](https://yyscyber.github.io/computer-basic/data-structures-and-algorithms/imooc/dsna-system-2021/ed7ed3b1-3836-4441-a62e-8c74d411f824)
 
-[【数据结构—树】二分搜索树（3）](331bd7dd-a149-4fb3-a74e-c12f91df33d2)
+[【数据结构—树】二分搜索树（3）](https://yyscyber.github.io/computer-basic/data-structures-and-algorithms/imooc/dsna-system-2021/331bd7dd-a149-4fb3-a74e-c12f91df33d2)
 
 [【数据结构—树】二分搜索树（4）](20c90443-8ca1-49aa-831c-29cde297e613)
 
