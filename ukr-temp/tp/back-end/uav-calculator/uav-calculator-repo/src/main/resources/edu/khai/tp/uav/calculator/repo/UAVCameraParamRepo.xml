@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="edu.khai.tp.uav.calculator.repo.UAVCameraParamRepo">
+
+    <select id="listAllUAVCameraParams" resultType="UAVCameraParamDO">
+        SELECT *
+        FROM tp_uav_ap_camera_param
+        WHERE cp_is_deleted=0
+    </select>
+
+    <select id="getUAVCameraParamByUuid" resultType="UAVCameraParamDO" parameterType="string">
+        SELECT *
+        FROM tp_uav_ap_camera_param
+        WHERE cp_uuid=#{uuid}
+    </select>
+
+    <insert id="insertUAVCameraParam" parameterType="UAVCameraParamDO">
+        INSERT INTO tp_uav_ap_camera_param (cp_uuid,cp_name,cp_image_size_length,cp_image_size_width,cp_image_sensor_size_length,cp_image_sensor_size_width,cp_focal_length,cp_pixel_size,cp_is_deleted,cp_create_time,cp_update_time)
+        VALUES (#{cpUuid},#{cpName},#{cpImageSizeLength},#{cpImageSizeWidth},#{cpImageSensorSizeLength},#{cpImageSensorSizeWidth},#{cpFocalLength},#{cpPixelSize},#{cpIsDeleted},#{cpCreateTime},#{cpUpdateTime})
+    </insert>
+
+    <update id="deleteUAVCameraParamByUuid" parameterType="string">
+        UPDATE tp_uav_ap_camera_param
+        SET cp_is_deleted=1
+        WHERE cp_uuid=#{uuid}
+    </update>
+
+</mapper>

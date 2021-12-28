@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="edu.khai.tp.uav.calculator.repo.RecordRepo">
+
+    <resultMap id="RecordMap" type="edu.khai.tp.uav.calculator.pojo.dbo.RecordDO">
+        <id property="recordUuid" column="record_uuid"/>
+        <result property="recordFlyingHeight" column="record_flying_height"/>
+        <result property="recordFlyingSpeed" column="record_flying_speed"/>
+        <result property="recordGSD" column="record_gsd"/>
+        <result property="recordLongitudinalOverlap" column="record_longitudinal_overlap"/>
+        <result property="recordLateralOverlap" column="record_lateral_overlap"/>
+        <result property="recordActualSizeLength" column="record_actual_size_length"/>
+        <result property="recordActualSizeWidth" column="record_actual_size_width"/>
+        <result property="recordPhotographyDistance" column="record_photography_distance"/>
+        <result property="recordRouteDistance" column="record_route_distance"/>
+        <result property="recordPhotoTimeInterval" column="record_photo_time_interval"/>
+        <result property="recordIsDeleted" column="record_is_deleted"/>
+        <result property="recordCreateTime" column="record_create_time"/>
+        <result property="recordUpdateTime" column="record_update_time"/>
+
+        <association property="cameraParam" javaType="UAVCameraParamDO" column="record_camera_param_uuid" select="edu.khai.tp.uav.calculator.repo.UAVCameraParamRepo.getUAVCameraParamByUuid"/>
+    </resultMap>
+
+    <select id="listAllRecords" resultMap="RecordMap">
+        SELECT *
+        FROM tp_uav_ap_record
+        WHERE record_is_deleted=0;
+    </select>
+
+</mapper>
