@@ -30,6 +30,10 @@
 
 [【数据结构—树】二分搜索树（5）](1c1152db-f78f-42d3-a271-c20fa1628cfe)
 
-[【数据结构—集合】]()
+[【数据结构—集合】集合（1）](https://yyscyber.github.io/computer-basic/data-structures-and-algorithms/imooc/dsna-system-2021/d24688b5-9279-4b3f-8621-a51b2ac221a2)
+
+[【数据结构—集合】集合（2）](https://yyscyber.github.io/computer-basic/data-structures-and-algorithms/imooc/dsna-system-2021/404794f1-0948-4997-b0b3-c1a5f2f0dd71)
+
+[【数据结构—集合】集合（3）](980bf587-82ab-4f4b-8501-ee8c06ef3780)
 
 [【数据结构—映射】]()
