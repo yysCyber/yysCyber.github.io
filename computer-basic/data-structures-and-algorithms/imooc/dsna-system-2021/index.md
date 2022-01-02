@@ -38,4 +38,8 @@
 
 [【数据结构—集合】集合总结](https://yyscyber.github.io/computer-basic/data-structures-and-algorithms/imooc/dsna-system-2021/5b8df638-84ad-4c6a-9829-a12f975c56c7)
 
-[【数据结构—映射】]()
+[【数据结构—映射】映射概述](https://yyscyber.github.io/computer-basic/data-structures-and-algorithms/imooc/dsna-system-2021/a9b5cedb-cf03-4dce-9941-33a392ca333e)
+
+[【数据结构—映射】基于二分搜索树实现映射](2604d4b3-2c08-426a-bce7-477eb566c0e9)
+
+[【数据结构—映射】基于链表实现映射](https://yyscyber.github.io/computer-basic/data-structures-and-algorithms/imooc/dsna-system-2021/e80e23ad-5883-4564-8ca2-20b3eda6e0e3)
