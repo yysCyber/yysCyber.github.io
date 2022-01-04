@@ -45,3 +45,11 @@
 [【数据结构—映射】基于链表实现映射](https://yyscyber.github.io/computer-basic/data-structures-and-algorithms/imooc/dsna-system-2021/e80e23ad-5883-4564-8ca2-20b3eda6e0e3)
 
 [【数据结构—映射】映射总结](https://yyscyber.github.io/computer-basic/data-structures-and-algorithms/imooc/dsna-system-2021/50da9044-9f1e-4cfb-aeb9-f5a0e0ebf3c2)
+
+[【数据结构—堆】堆概述](https://yyscyber.github.io/computer-basic/data-structures-and-algorithms/imooc/dsna-system-2021/521911f0-f44f-403e-ade8-fa314cca0866)
+
+[【数据结构—堆】最大堆](2f90011b-41f5-446d-b163-cc33040689df)
+
+[【数据结构—堆】最小堆](6f795024-1f45-479c-8186-b7646113a943)
+
+[【算法—排序】堆排序](fa416879-471b-4e8d-be4e-29d2ae0b4496)
