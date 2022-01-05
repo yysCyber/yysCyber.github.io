@@ -50,6 +50,6 @@
 
 [【数据结构—堆】最大堆](https://yyscyber.github.io/computer-basic/data-structures-and-algorithms/imooc/dsna-system-2021/2f90011b-41f5-446d-b163-cc33040689df)
 
-[【数据结构—堆】最小堆](6f795024-1f45-479c-8186-b7646113a943)
+[【数据结构—堆】最小堆](https://yyscyber.github.io/computer-basic/data-structures-and-algorithms/imooc/dsna-system-2021/6f795024-1f45-479c-8186-b7646113a943)
 
 [【算法—排序】堆排序](fa416879-471b-4e8d-be4e-29d2ae0b4496)
