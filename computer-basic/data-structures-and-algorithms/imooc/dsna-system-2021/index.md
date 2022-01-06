@@ -60,4 +60,4 @@
 
 [【数据结构—优先队列】基于堆的优先队列](https://yyscyber.github.io/computer-basic/data-structures-and-algorithms/imooc/dsna-system-2021/c47068e2-9b47-427e-a011-73442a5bae46)
 
-[【数据结构—优先队列】优先队列总结](26edbe7c-8f69-4900-a655-df841e8c3dcd)
+[【数据结构—优先队列】优先队列总结](https://yyscyber.github.io/computer-basic/data-structures-and-algorithms/imooc/dsna-system-2021/26edbe7c-8f69-4900-a655-df841e8c3dcd)
