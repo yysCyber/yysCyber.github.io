@@ -54,7 +54,7 @@
 
 [【算法—排序】堆排序](https://yyscyber.github.io/computer-basic/data-structures-and-algorithms/imooc/dsna-system-2021/fa416879-471b-4e8d-be4e-29d2ae0b4496)
 
-[【数据结构—堆】堆总结](c27eb670-7a61-4022-a13e-b5986f3320a3)
+[【数据结构—堆】堆总结](https://yyscyber.github.io/computer-basic/data-structures-and-algorithms/imooc/dsna-system-2021/c27eb670-7a61-4022-a13e-b5986f3320a3)
 
 [【数据结构—优先队列】优先队列概述](2a55fb56-7a19-4f71-878a-8295bfcb8c29)
 
