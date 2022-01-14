@@ -8,6 +8,8 @@
 
 [《我的第一本算法书》[日]石田保辉 宫崎修一/著 张贝/译](https://yyscyber.github.io/e-book/f8112d7a-c18a-4426-926c-7ad4376e2751.pdf)
 
+[《GitHub入门与实践》[日]大塚弘记/著 支鹏浩 刘斌/译](https://yyscyber.github.io/e-book/03aa34aa-d586-4b1d-ad57-dce34967143e.pdf)
+
 ---
 
 ## 1、开发环境与工具
