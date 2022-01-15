@@ -104,7 +104,9 @@
 
 [整合 MyBatis](https://yyscyber.github.io/java/lagou/basic/47629440-0a69-4ee5-968f-34a533ad480a)
 
-[部署](4b68d603-7a6e-4102-b48f-bfe0d5464457)
+[整合 Redis]()
+
+[部署](https://yyscyber.github.io/java/lagou/basic/4b68d603-7a6e-4102-b48f-bfe0d5464457)
 
 ---
 
