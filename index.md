@@ -48,6 +48,18 @@
 
 [CentOS7 Nginx 安装](https://yyscyber.github.io/development-environment-and-tools/d0e6e158-3715-40f6-a709-c400d3a547a6)
 
+
+
+[Windowns10 Redis 安装](https://yyscyber.github.io/development-environment-and-tools/5f768a86-174e-4d82-9f52-abbdaa63cd3f)
+
+
+
+[CentOS7 Redis 安装](https://yyscyber.github.io/development-environment-and-tools/0242477c-47f0-420c-9928-3a81fccfd1b9)
+
+
+
+[]()
+
 ---
 
 ## 2、开发规范
