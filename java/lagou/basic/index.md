@@ -120,5 +120,6 @@
 
 [安装](https://yyscyber.github.io/java/lagou/basic/a343d1af-5de5-486b-8bec-b773e5c28c3c)
 
-[]()
+[基本使用 1](https://yyscyber.github.io/java/lagou/basic/90adf589-8ebc-44b8-a857-9cc6060a90bf)
 
+[基本使用 2](6faef8d1-f40a-45d6-aad5-5048d353a6c1)
