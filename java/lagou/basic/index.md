@@ -123,3 +123,5 @@
 [基本使用 1](https://yyscyber.github.io/java/lagou/basic/90adf589-8ebc-44b8-a857-9cc6060a90bf)
 
 [基本使用 2](https://yyscyber.github.io/java/lagou/basic/6faef8d1-f40a-45d6-aad5-5048d353a6c1)
+
+[数据类型](https://yyscyber.github.io/java/lagou/basic/1e8774bc-eee3-4dc4-93ff-8697a42decad)
