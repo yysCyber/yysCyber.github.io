@@ -292,5 +292,5 @@
 
 附件5：[国家留学基金资助学费支付信息表](https://yyscyber.github.io/ukr-temp/pay-tuition-2022/appendix/a39b24c9-5e92-4b8f-9e9a-969686be0853.xlsx)
 
-附件6：[外事办申请开具证明用](https://yyscyber.github.io/ukr-temp/pay-tuition-2022/appendix/3fcb5fea-5c3e-4bb4-b7e0-0f9484c06413)
+附件6：[外事办申请开具证明用](https://yyscyber.github.io/ukr-temp/pay-tuition-2022/appendix/3fcb5fea-5c3e-4bb4-b7e0-0f9484c06413.docx)
 
