@@ -128,4 +128,10 @@
 
 [持久化（备份与恢复）](https://yyscyber.github.io/java/lagou/basic/22c7ffef-16a2-4cb8-acca-3b1e2d0d8203)
 
-[事务]()
+[事务](https://yyscyber.github.io/java/lagou/basic/6c1b0fde-04b2-4aa5-a3d3-a41c1a5047a4)
+
+[订阅与发布]()
+
+[主从模式]()
+
+[Jedis]()
