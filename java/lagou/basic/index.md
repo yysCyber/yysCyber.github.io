@@ -132,6 +132,6 @@
 
 [订阅与发布](https://yyscyber.github.io/java/lagou/basic/5e3316f1-86c2-4b39-8c6b-e3ea2f88c4be)
 
-[主从模式]()
+[主从模式](https://yyscyber.github.io/java/lagou/basic/57d93f5d-2f7b-4b5a-984f-b44be7808fd1)
 
 [Jedis]()
