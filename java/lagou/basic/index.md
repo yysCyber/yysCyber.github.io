@@ -134,4 +134,6 @@
 
 [主从模式](https://yyscyber.github.io/java/lagou/basic/57d93f5d-2f7b-4b5a-984f-b44be7808fd1)
 
-[Jedis]()
+[Jedis](https://yyscyber.github.io/java/lagou/basic/2b2f56c1-14b8-4148-803f-ace10c5c26cb)
+
+[]()
