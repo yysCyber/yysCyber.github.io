@@ -136,4 +136,6 @@
 
 [Jedis](https://yyscyber.github.io/java/lagou/basic/2b2f56c1-14b8-4148-803f-ace10c5c26cb)
 
-[]()
+[Spring Redis](https://yyscyber.github.io/java/lagou/basic/22777d6f-58f5-47ee-b8fe-9fd3eba16e12)
+
+[Spring Boot Redis]()
