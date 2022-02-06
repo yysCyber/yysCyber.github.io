@@ -138,4 +138,4 @@
 
 [Spring Redis](https://yyscyber.github.io/java/lagou/basic/22777d6f-58f5-47ee-b8fe-9fd3eba16e12)
 
-[Spring Boot Redis]()
+[Spring Boot Redis](https://yyscyber.github.io/java/lagou/basic/d5964dd8-23a6-4f5d-a7c0-c479c4f0d113)
