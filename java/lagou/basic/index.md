@@ -141,3 +141,11 @@
 [Spring Boot Redis](https://yyscyber.github.io/java/lagou/basic/d5964dd8-23a6-4f5d-a7c0-c479c4f0d113)
 
 [Redis 分布式锁](https://yyscyber.github.io/java/lagou/basic/26a205e2-a410-439b-9344-93f64e8fb478)
+
+---
+
+### 13、RabbitMQ
+
+[概述](https://yyscyber.github.io/java/lagou/basic/1d723f7b-235a-4557-a2c7-e967a6e77152)
+
+[安装]()
