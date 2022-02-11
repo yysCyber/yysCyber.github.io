@@ -148,4 +148,4 @@
 
 [概述](https://yyscyber.github.io/java/lagou/basic/1d723f7b-235a-4557-a2c7-e967a6e77152)
 
-[安装]()
+[安装](https://yyscyber.github.io/java/lagou/basic/b381e1fa-e1ba-45e8-bae6-84c795dd99a7)

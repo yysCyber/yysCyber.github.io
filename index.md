@@ -60,6 +60,14 @@
 
 [Windows10 Redis GUI 工具安装](https://yyscyber.github.io/development-environment-and-tools/653e9ebd-7102-42bd-9535-69fd6e6d39fc)
 
+
+
+[Windows10 RabbitMQ 安装](https://yyscyber.github.io/development-environment-and-tools/33f957ea-1d3b-4bb1-a39f-6efd3bedd313)
+
+
+
+[CentOS7 RabbitMQ 安装](5a35ac4e-343d-491f-b9de-819ec8fc0d5f)
+
 ---
 
 ## 2、开发规范
