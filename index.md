@@ -66,7 +66,7 @@
 
 
 
-[CentOS7 RabbitMQ 安装](5a35ac4e-343d-491f-b9de-819ec8fc0d5f)
+[CentOS7 RabbitMQ 安装](https://yyscyber.github.io/development-environment-and-tools/5a35ac4e-343d-491f-b9de-819ec8fc0d5f)
 
 ---
 
