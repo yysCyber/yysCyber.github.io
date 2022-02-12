@@ -152,7 +152,7 @@
 
 [Web 管理平台](https://yyscyber.github.io/java/lagou/basic/d60f4a7e-403b-4924-aef5-9e6a894ae171)
 
-[Java 使用 RabbitMQ](97558ecf-c73d-432b-8d9d-040032e4ae8e)
+[Java 使用 RabbitMQ](https://yyscyber.github.io/java/lagou/basic/97558ecf-c73d-432b-8d9d-040032e4ae8e)
 
 [消息模型](4a75d9c2-4d9b-4d77-99e8-8003a4cdd81d)
 
