@@ -149,3 +149,17 @@
 [概述](https://yyscyber.github.io/java/lagou/basic/1d723f7b-235a-4557-a2c7-e967a6e77152)
 
 [安装](https://yyscyber.github.io/java/lagou/basic/b381e1fa-e1ba-45e8-bae6-84c795dd99a7)
+
+[Web 管理平台](https://yyscyber.github.io/java/lagou/basic/d60f4a7e-403b-4924-aef5-9e6a894ae171)
+
+[Java 使用 RabbitMQ](97558ecf-c73d-432b-8d9d-040032e4ae8e)
+
+[消息模型](4a75d9c2-4d9b-4d77-99e8-8003a4cdd81d)
+
+[消息持久化](69f756a1-9b25-412c-acea-bf08ba10dc37)
+
+[Spring RabbitMQ](1ebdc91c-ad62-482f-bab9-373eb4b7d151)
+
+[事务](fc2f348b-b4d4-4d3b-a23f-6bf08e5dc9f7)
+
+[消息确认](cafd0a35-d3d4-41f1-8681-b7c2f1dab4a5)
