@@ -154,7 +154,17 @@
 
 [Java 使用 RabbitMQ](https://yyscyber.github.io/java/lagou/basic/97558ecf-c73d-432b-8d9d-040032e4ae8e)
 
-[消息模型](4a75d9c2-4d9b-4d77-99e8-8003a4cdd81d)
+[消息模型 — 概述](https://yyscyber.github.io/java/lagou/basic/4a75d9c2-4d9b-4d77-99e8-8003a4cdd81d)
+
+[消息模型 — Hello World]()
+
+[消息模型 — Work Queues]()
+
+[消息模型 — Publish/Subscribe]()
+
+[消息模型 — Routing]()
+
+[消息模型 — Topics]()
 
 [消息持久化](69f756a1-9b25-412c-acea-bf08ba10dc37)
 
@@ -162,4 +172,4 @@
 
 [事务](fc2f348b-b4d4-4d3b-a23f-6bf08e5dc9f7)
 
-[消息确认](cafd0a35-d3d4-41f1-8681-b7c2f1dab4a5)
+[消息模型 — Publisher Confirms]()
