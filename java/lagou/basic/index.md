@@ -156,7 +156,7 @@
 
 [消息模型 — 概述](https://yyscyber.github.io/java/lagou/basic/4a75d9c2-4d9b-4d77-99e8-8003a4cdd81d)
 
-[消息模型 — Hello World]()
+[消息模型 — Hello World](https://yyscyber.github.io/java/lagou/basic/e82b8a20-8e6b-4b62-822c-5d7041d0e5a9)
 
 [消息模型 — Work Queues]()
 
