@@ -160,7 +160,7 @@
 
 [消息模型 — Work Queues](https://yyscyber.github.io/java/lagou/basic/36c1b71d-340e-4bdc-a365-a409f74b1ddf)
 
-[消息模型 — Publish/Subscribe]()
+[消息模型 — Publish/Subscribe](https://yyscyber.github.io/java/lagou/basic/d71c3c63-82f0-4bf0-88c3-c475671daf0e)
 
 [消息模型 — Routing]()
 
