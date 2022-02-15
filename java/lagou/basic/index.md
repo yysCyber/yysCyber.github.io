@@ -162,7 +162,7 @@
 
 [消息模型 — Publish/Subscribe](https://yyscyber.github.io/java/lagou/basic/d71c3c63-82f0-4bf0-88c3-c475671daf0e)
 
-[消息模型 — Routing]()
+[消息模型 — Routing](https://yyscyber.github.io/java/lagou/basic/66dff350-0886-49e3-9cb3-d4b952086fe9)
 
 [消息模型 — Topics]()
 
