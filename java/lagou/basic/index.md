@@ -168,7 +168,7 @@
 
 [消息持久化](https://yyscyber.github.io/java/lagou/basic/69f756a1-9b25-412c-acea-bf08ba10dc37)
 
-[Spring RabbitMQ](1ebdc91c-ad62-482f-bab9-373eb4b7d151)
+[Spring RabbitMQ](https://yyscyber.github.io/java/lagou/basic/1ebdc91c-ad62-482f-bab9-373eb4b7d151)
 
 [事务](fc2f348b-b4d4-4d3b-a23f-6bf08e5dc9f7)
 
