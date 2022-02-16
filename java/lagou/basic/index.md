@@ -164,7 +164,7 @@
 
 [消息模型 — Routing](https://yyscyber.github.io/java/lagou/basic/66dff350-0886-49e3-9cb3-d4b952086fe9)
 
-[消息模型 — Topics]()
+[消息模型 — Topics](https://yyscyber.github.io/java/lagou/basic/0032a734-39b4-4bcb-b496-62a95ad37e82)
 
 [消息持久化](69f756a1-9b25-412c-acea-bf08ba10dc37)
 
