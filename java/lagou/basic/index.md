@@ -166,7 +166,7 @@
 
 [消息模型 — Topics](https://yyscyber.github.io/java/lagou/basic/0032a734-39b4-4bcb-b496-62a95ad37e82)
 
-[消息持久化](69f756a1-9b25-412c-acea-bf08ba10dc37)
+[消息持久化](https://yyscyber.github.io/java/lagou/basic/69f756a1-9b25-412c-acea-bf08ba10dc37)
 
 [Spring RabbitMQ](1ebdc91c-ad62-482f-bab9-373eb4b7d151)
 
