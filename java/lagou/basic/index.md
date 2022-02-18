@@ -170,6 +170,6 @@
 
 [Spring RabbitMQ](https://yyscyber.github.io/java/lagou/basic/1ebdc91c-ad62-482f-bab9-373eb4b7d151)
 
-[事务](fc2f348b-b4d4-4d3b-a23f-6bf08e5dc9f7)
+[事务](https://yyscyber.github.io/java/lagou/basic/fc2f348b-b4d4-4d3b-a23f-6bf08e5dc9f7)
 
 [消息模型 — Publisher Confirms]()
