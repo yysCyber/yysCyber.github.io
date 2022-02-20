@@ -173,3 +173,9 @@
 [事务](https://yyscyber.github.io/java/lagou/basic/fc2f348b-b4d4-4d3b-a23f-6bf08e5dc9f7)
 
 [消息模型 — Publisher Confirms](https://yyscyber.github.io/java/lagou/basic/7ea7ecaa-768d-40f9-ad69-716e37b44277)
+
+[消费端限流](https://yyscyber.github.io/java/lagou/basic/29b76239-23bb-43ba-b1d0-4842f1ffb8a2)
+
+[消息过期时间](8f0d305c-c46e-41b7-a1db-97aa20853945)
+
+[死信队列](894cf495-197d-4cd5-9d79-9a227a8f2e41)
