@@ -176,6 +176,6 @@
 
 [消费端限流](https://yyscyber.github.io/java/lagou/basic/29b76239-23bb-43ba-b1d0-4842f1ffb8a2)
 
-[消息过期时间](8f0d305c-c46e-41b7-a1db-97aa20853945)
+[消息过期时间](https://yyscyber.github.io/java/lagou/basic/8f0d305c-c46e-41b7-a1db-97aa20853945)
 
 [死信队列](894cf495-197d-4cd5-9d79-9a227a8f2e41)
