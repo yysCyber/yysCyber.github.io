@@ -172,4 +172,4 @@
 
 [事务](https://yyscyber.github.io/java/lagou/basic/fc2f348b-b4d4-4d3b-a23f-6bf08e5dc9f7)
 
-[消息模型 — Publisher Confirms]()
+[消息模型 — Publisher Confirms](https://yyscyber.github.io/java/lagou/basic/7ea7ecaa-768d-40f9-ad69-716e37b44277)
