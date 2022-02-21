@@ -179,3 +179,5 @@
 [消息过期时间](https://yyscyber.github.io/java/lagou/basic/8f0d305c-c46e-41b7-a1db-97aa20853945)
 
 [死信队列](https://yyscyber.github.io/java/lagou/basic/894cf495-197d-4cd5-9d79-9a227a8f2e41)
+
+[](ed2f9b80-83e1-465e-a7c0-8633d4230e00)
