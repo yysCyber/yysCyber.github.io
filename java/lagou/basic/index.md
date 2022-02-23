@@ -180,4 +180,8 @@
 
 [死信队列](https://yyscyber.github.io/java/lagou/basic/894cf495-197d-4cd5-9d79-9a227a8f2e41)
 
-[](ed2f9b80-83e1-465e-a7c0-8633d4230e00)
+[集群 — 概述](https://yyscyber.github.io/java/lagou/basic/ed2f9b80-83e1-465e-a7c0-8633d4230e00)
+
+[集群 — 普通模式集群](https://yyscyber.github.io/java/lagou/basic/c2eef2b6-8b4c-4e96-9812-b92ec6994b71)
+
+[集群 — 镜像模式集群](b0de2825-9352-4c45-b7c5-4879d5b521b6)
