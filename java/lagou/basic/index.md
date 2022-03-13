@@ -184,4 +184,6 @@
 
 [集群 — 普通模式集群](https://yyscyber.github.io/java/lagou/basic/c2eef2b6-8b4c-4e96-9812-b92ec6994b71)
 
-[集群 — 镜像模式集群](b0de2825-9352-4c45-b7c5-4879d5b521b6)
+[集群 — 镜像模式集群](https://yyscyber.github.io/java/lagou/basic/b0de2825-9352-4c45-b7c5-4879d5b521b6)
+
+[集群 — HAProxy]()
