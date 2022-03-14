@@ -68,6 +68,10 @@
 
 [CentOS7 RabbitMQ 安装](https://yyscyber.github.io/development-environment-and-tools/5a35ac4e-343d-491f-b9de-819ec8fc0d5f)
 
+
+
+[CentOS7 HAProxy 安装](https://yyscyber.github.io/development-environment-and-tools/af3f318c-9088-4464-bff3-750b069d809d)
+
 ---
 
 ## 2、开发规范
