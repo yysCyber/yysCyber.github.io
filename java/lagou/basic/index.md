@@ -186,4 +186,6 @@
 
 [集群 — 镜像模式集群](https://yyscyber.github.io/java/lagou/basic/b0de2825-9352-4c45-b7c5-4879d5b521b6)
 
-[集群 — HAProxy]()
+[集群 — HAProxy](https://yyscyber.github.io/java/lagou/basic/585e98d5-75b4-4933-8c28-5d3f075a7191)
+
+[集群 — Keepalived]()
