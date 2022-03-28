@@ -189,3 +189,14 @@
 [集群 — HAProxy](https://yyscyber.github.io/java/lagou/basic/585e98d5-75b4-4933-8c28-5d3f075a7191)
 
 [集群 — Keepalived]()
+
+---
+
+### 14、FastDFS
+
+[概述](https://yyscyber.github.io/java/lagou/basic/b5def3b3-59c5-4d16-a4d2-f633134038fa)
+
+[机制（原理）](https://yyscyber.github.io/java/lagou/basic/cba686c4-3491-462a-b6cc-2556bedbfe6a)
+
+<!-- [安装与基本配置](a1bb7ba2-88e9-4bca-b602-0cc74edd0a4a) -->
+
