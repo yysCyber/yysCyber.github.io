@@ -72,6 +72,10 @@
 
 [CentOS7 FastDFS 安装（1）](https://yyscyber.github.io/development-environment-and-tools/ba5fc48b-215d-4045-81b9-a60fe64249e3)
 
+
+
+[CentOS7 FastDFS 安装（2）](https://yyscyber.github.io/development-environment-and-tools/6808a92a-3ac8-4641-b894-f352b26d8d54)
+
 <!-- [CentOS7 HAProxy 安装](https://yyscyber.github.io/development-environment-and-tools/af3f318c-9088-4464-bff3-750b069d809d) -->
 
 ---
