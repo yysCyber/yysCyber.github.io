@@ -1,5 +1,7 @@
 # CentOS 7 安装 MongoDB
 
+> 时间：2022-04-08
+
 <br/>
 
 ## 1、概述
@@ -8,6 +10,14 @@
 
 - 社区版安装包官方下载地址：[https://www.mongodb.com/try/download/community](https://www.mongodb.com/try/download/community)
 - MongoDB 社区版免费，企业版付费。
+
+
+
+|                      软件                       | 版本号 |
+| :---------------------------------------------: | :----: |
+| MongoDB (Community Server, RedHat / CentOS 7.0) | 4.4.13 |
+
+
 
 ---
 

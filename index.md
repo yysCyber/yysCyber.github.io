@@ -80,6 +80,10 @@
 
 [CentOS7 MongoDB 安装](https://yyscyber.github.io/development-environment-and-tools/d27331fd-cf8a-4fb7-aca1-9f06dbf1cf31)
 
+
+
+[Windows10 MongoDB GUI 工具安装](https://yyscyber.github.io/development-environment-and-tools/bb5b2397-787a-49c0-b5f3-61eb156a441a)
+
 ---
 
 ## 2、开发规范
