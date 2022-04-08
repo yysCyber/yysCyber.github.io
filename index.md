@@ -78,6 +78,8 @@
 
 <!-- [CentOS7 HAProxy 安装](https://yyscyber.github.io/development-environment-and-tools/af3f318c-9088-4464-bff3-750b069d809d) -->
 
+[CentOS7 MongoDB 安装](https://yyscyber.github.io/development-environment-and-tools/d27331fd-cf8a-4fb7-aca1-9f06dbf1cf31)
+
 ---
 
 ## 2、开发规范
