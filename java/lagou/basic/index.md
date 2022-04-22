@@ -212,6 +212,14 @@
 
 [安装]()
 
+[基本概念](https://yyscyber.github.io/java/lagou/basic/6ad3c559-d137-46fd-80a9-19a51ead4249)
+
+[连接](https://yyscyber.github.io/java/lagou/basic/28342ec6-39da-4618-8d41-99338f52e570)
+
+[数据类型](https://yyscyber.github.io/java/lagou/basic/6a2bb286-cc2a-462b-8bf4-4b8864ca2595)
+
+[基本操作 — 数据库]()
+
 ---
 
 ### 16、Zookeeper
