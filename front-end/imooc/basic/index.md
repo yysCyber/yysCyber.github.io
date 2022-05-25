@@ -50,3 +50,9 @@
 
 [展开运算符](https://yyscyber.github.io/front-end/imooc/basic/bcec04f5-69cf-4a0a-8779-a3dc1292f2e8)
 
+[Set 与 Map](https://yyscyber.github.io/front-end/imooc/basic/30f2db62-e20f-4097-8619-86dabcc4d396)
+
+[迭代器与 for-of 循环](https://yyscyber.github.io/front-end/imooc/basic/223a5038-363e-4f16-80f1-09a632ab68e1)
+
+[ES6 常用新增方法](2b8e8d7a-4dc5-4c17-bb0a-badb28771ccd)
+
