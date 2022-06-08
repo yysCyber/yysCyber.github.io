@@ -54,5 +54,14 @@
 
 [迭代器与 for-of 循环](https://yyscyber.github.io/front-end/imooc/basic/223a5038-363e-4f16-80f1-09a632ab68e1)
 
-[ES6 常用新增方法](2b8e8d7a-4dc5-4c17-bb0a-badb28771ccd)
+[ES6 常用新增方法](https://yyscyber.github.io/front-end/imooc/basic/2b8e8d7a-4dc5-4c17-bb0a-badb28771ccd)
 
+[Promise](https://yyscyber.github.io/front-end/imooc/basic/8b61eaf0-7a21-46e3-b36d-d83074743ba4)
+
+[Class]()
+
+[Module 模块]()
+
+[Babel]()
+
+[Webpack]()
